@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+.container {
+    display: flex;
+    flex-direction: column; /* Alinha os itens na vertical */
+    justify-content: center; /* Alinha horizontalmente */
+    align-items: center; /* Alinha verticalmente */
+    height: 100vh; /* Exemplo para ocupar toda a tela */
+    background-color: #CCC;
+  }
+  
+
+a {
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #d3bd0f;
+}
